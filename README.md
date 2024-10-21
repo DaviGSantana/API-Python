@@ -1,1 +1,1 @@
-Minha PRIMEIRA Api em Python! Usei tambem o Flask.
+Minha PRIMEIRA Api em Python! Flask.
